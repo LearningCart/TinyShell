@@ -1,6 +1,6 @@
 # TinyShell
 It creates tiny shell over serial/console.
-Can be exetended as script interpreter for arduino.,
+It can be exetended as script interpreter for arduino.,
 
 
 e.g.,
