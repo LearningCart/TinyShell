@@ -1,5 +1,4 @@
 # TinyShell
-Tiny shell project
 It creates tiny shell over serial/console.
 Can be exetended as script interpreter for arduino.,
 
